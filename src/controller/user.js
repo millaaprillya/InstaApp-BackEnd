@@ -37,7 +37,7 @@ module.exports = {
               user_name,
               user_email
             }
-            const token = jwt.sign(paylot, '', { expiresIn: '10h' })
+            const token = jwt.sign(paylot, 'InstanApp', { expiresIn: '10h' })
             const result = { ...paylot, token }
             return helper.response(response, 200, 'Succes Login ', result)
           } else {
