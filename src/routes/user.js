@@ -19,6 +19,9 @@ const {
   sendFile,
   deleteRoom
 } = require('../controller/message')
+const { getTimeline, postTimeline } = require('../controller/media')
+
+// ROUTER
 // ===> user <===
 router.get('/search', searchUser)
 router.get('/:id', userByid)
@@ -26,10 +29,12 @@ router.post('/register', register)
 router.post('/login', login)
 router.patch('/:id', settings)
 router.patch('/img/:id', uploadImage, patchimg)
-
 // ==> friends <==
 router.get('/friends/find/', getFriends)
 router.post('/addfriends', addfriends)
+// ==> Media <==
+router.get('/timeline', getTimeline)
+router.post('/postTime', postTimeline)
 // ==> Chat <==
 router.get('/chat/:id', getMessageByRoom)
 router.post('/Chat', sendMessage)
