@@ -6,16 +6,21 @@
   </p>
   
 ## InstanApp
+
   <p> Dashboard </p>
+  
 ![Image](https://github.com/millaaprillya/InstaApp-BackEnd/blob/main/Bg%20Future/Dashboard.PNG)
 
 ## About The Project
 <h3>A social networking service, providing instant messages and sharing what you do, creating your status and expressing yourself with other users to make friends with each other.
 connection is easier and you can be comfortable in social media.</h3>
 ## Chat
+
   <p> Chat</p>
+  
 ![Image](https://github.com/millaaprillya/InstaApp-BackEnd/blob/main/Bg%20Future/Dashboard.PNG)
 . [More about Express](https://en.wikipedia.org/wiki/Express.js)
+
 <h3> Bold chat (English: online chat) is any form of communication that uses the Internet, but specifically refers to a text-based conversation or conversation between two users on the Internet.</h3>
 
 ## Built With
