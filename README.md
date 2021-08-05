@@ -14,12 +14,13 @@
 ## About The Project
 <h3>A social networking service, providing instant messages and sharing what you do, creating your status and expressing yourself with other users to make friends with each other.
 connection is easier and you can be comfortable in social media.</h3>
+
 ## Chat
 
   <p> Chat</p>
   
-![Image](https://github.com/millaaprillya/InstaApp-BackEnd/blob/main/Bg%20Future/Dashboard.PNG)
-. [More about Express](https://en.wikipedia.org/wiki/Express.js)
+![Image](https://github.com/millaaprillya/InstaApp-BackEnd/blob/main/Bg%20Future/Chat.PNG)
+
 
 <h3> Bold chat (English: online chat) is any form of communication that uses the Internet, but specifically refers to a text-based conversation or conversation between two users on the Internet.</h3>
 
@@ -27,6 +28,7 @@ connection is easier and you can be comfortable in social media.</h3>
 
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
 [![Node.js](https://img.shields.io/badge/Node.js-v.12.13-green.svg?style=rounded-square)](https://nodejs.org/)
+. [More about Express](https://en.wikipedia.org/wiki/Express.js)
 
 ## Requirements
 
