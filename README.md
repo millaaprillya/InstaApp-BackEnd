@@ -7,7 +7,7 @@
 <h3>A social networking service, providing instant messages and sharing what you do, creating your status and expressing yourself with other users to make friends with each other.
 connection is easier and you can be comfortable in social media.</h3>
 
-![Image Banner](https://github.com/millaaprillya/InstaApp-BackEnd/blob/main/Bg%20Future/Dashboard.PNG)
+<center>![Image Banner](https://github.com/millaaprillya/InstaApp-BackEnd/blob/main/Bg%20Future/Dashboard.PNG)</center>
 
 . [More about Express](https://en.wikipedia.org/wiki/Express.js)
 
