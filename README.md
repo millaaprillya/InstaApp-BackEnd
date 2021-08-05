@@ -5,9 +5,7 @@
     <a href="https://github.com/millaaprillya/">Request Feature</a>
   </p>
   
-## InstanApp
-
-  <p> Dashboard </p>
+## Dashboard
   
 ![Image](https://github.com/millaaprillya/InstaApp-BackEnd/blob/main/Bg%20Future/Dashboard.PNG)
 
@@ -36,7 +34,7 @@ connection is easier and you can be comfortable in social media.</h3>
 2. Node_modules
 3. <a href="https://documenter.getpostman.com/view/12328880/TVsoGqP6
 ">Postman</a>
-4. Web Server (ex. localhost)
+4. Web Server (https://web.postman.co/workspace/My-Workspace~3ca8251c-a4af-4291-85be-97eba425dd71/documentation/12328880-1fb16267-63c3-43e6-9a9f-d5b4bfa781d3)
 
 ## How to run the app ?
 
